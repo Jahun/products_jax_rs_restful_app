@@ -11,7 +11,7 @@
 
         <init-param>
             <param-name>com.sun.jersey.config.property.packages</param-name>
-            <param-value>products</param-value>
+            <param-value>main.java.products</param-value>
         </init-param>
 
         <init-param>
@@ -22,6 +22,6 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>Jersey REST Service</servlet-name>
-        <url-pattern>/*</url-pattern>
+        <url-pattern>/rest/*</url-pattern>
     </servlet-mapping>
 </web-app>
