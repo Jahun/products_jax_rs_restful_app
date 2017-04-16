@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="products_jax_rs_restful_app" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jersey" />
+        </element>
       </element>
     </root>
   </artifact>

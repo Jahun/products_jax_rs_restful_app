@@ -12,8 +12,8 @@ import javax.ws.rs.core.MediaType;
 public class Products {
 
     @GET
-    @Produces(MediaType.TEXT_PLAIN)
-    public String getMessage(){
+    @Produces("text/plain")
+    public String Products(){
         return "Welcome to Products";
     }
 
