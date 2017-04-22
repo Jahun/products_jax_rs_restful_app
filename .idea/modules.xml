@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/products_jax_rs_restful_app.iml" filepath="$PROJECT_DIR$/products_jax_rs_restful_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/products_jax_rs_restful_app.iml" filepath="$PROJECT_DIR$/.idea/products_jax_rs_restful_app.iml" />
     </modules>
   </component>
 </project>
